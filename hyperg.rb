@@ -1,4 +1,4 @@
-class Golem < Formula
+class Hyperg < Formula
   desc 'Hyperdrive Client for Golem'
   homepage 'https://github.com/golemfactory'
   url 'https://github.com/mfranciszkiewicz/golem-hyperdrive/releases/download/v0.1.2/hyperg_0.1.2_darwin-amd64.tar.gz'
