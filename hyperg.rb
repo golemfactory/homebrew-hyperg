@@ -3,7 +3,7 @@ class Hyperg < Formula
   homepage 'https://github.com/golemfactory/hyperg'
   url 'https://github.com/mfranciszkiewicz/golem-hyperdrive/releases/download/v0.1.2/hyperg_0.1.2_darwin-amd64.tar.gz'
   version '0.1.2'
-  sha256 '862c14d2d4f0978db2142140131d667180be2cb13be69836972ae771703ddff7'
+  sha256 'a2b6376adb2ef8f9d4f7105fc82233ff693bbca9875ce7842fb98c1ebca2b721'
 
 
   def install
