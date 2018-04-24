@@ -1,9 +1,9 @@
 class Hyperg < Formula
   desc 'Hyperdrive Client for Golem'
   homepage 'https://github.com/golemfactory/hyperg'
-  url 'https://github.com/mfranciszkiewicz/golem-hyperdrive/releases/download/v0.2.5/hyperg_0.2.5_darwin-x64.tar.gz'
-  version '0.2.5'
-  sha256 'b1f60c3b9b2d0c90adfc56da6ca54a36d385a5e15f98fa3ef941158952bd0e9c'
+  url 'https://github.com/mfranciszkiewicz/golem-hyperdrive/releases/download/v0.2.6/hyperg_0.2.6_darwin-x64.tar.gz'
+  version '0.2.6'
+  sha256 '935468276637a5c8a6770cd1c9fe64195f4cbe8d2597cce1ec004aed61a8a238'
 
 
   def install
