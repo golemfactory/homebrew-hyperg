@@ -9,6 +9,7 @@ class Hyperg < Formula
   def install
 
     bin.install 'hyperg'
+    bin.install 'hyperg-worker'
     bin.install 'hyperg-client'
     bin.install Dir['*']
 
