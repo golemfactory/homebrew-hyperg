@@ -9,9 +9,9 @@ class Hyperg < Formula
   end
 
   devel do
-    version '0.3.1'
-    url 'https://github.com/golemfactory/simple-transfer/releases/download/0.3.1/hyperg_0.3.1_darwin-x64.tar.gz'
-    sha256 '90bc28364ba48a1cbd61e94cbac881a57ae0d6755ef6690e719b80a11819e4ff'
+    version '0.3.2'
+    url 'https://github.com/golemfactory/simple-transfer/releases/download/0.3.2/hyperg_0.3.2_darwin-x64.tar.gz'
+    sha256 'efe1f9feb1a2572ae534d2aa4b52b5d1918e30ee02b073f310e2362755450590'
   end
 
   def install
