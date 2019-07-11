@@ -16,8 +16,6 @@ class Hyperg < Formula
 
   def install
     bin.install 'hyperg'
-    bin.install 'hyperg-worker' if build.stable?
-    bin.install 'hyperg-client' if build.stable?
     bin.install Dir['*'] if build.stable?
   end
 end
