@@ -1,6 +1,6 @@
 class Hyperg < Formula
-  desc 'Hyperdrive Client for Golem'
-  homepage 'https://github.com/golemfactory/golem-hyperdrive'
+  desc 'File transfer utility for Golem'
+  homepage 'https://github.com/golemfactory/simple-transfer'
 
   stable do
     version '0.3.2'
